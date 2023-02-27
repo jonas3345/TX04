@@ -12,3 +12,28 @@
 .foto{
     width: 50%;
 }
+.html{
+    font-size: 10px;
+}
+.container{
+    font-size: 10px;
+}
+.exemplo1{
+   font-size: 2em; 
+}
+.exemplo2{
+    font-size: 2rem;
+}
+.exemplo3{
+    font-size: 2rem;
+}
+body{
+    background: url(https://media.istockphoto.com/id/1318334554/pt/vetorial/avocado-with-glasses-avocado-lawyer-funny-avocado-character-character-design.jpg?s=1024x1024&w=is&k=20&c=Nv_bV6qjYtAQee1dM8SxLYNnWarf-9mUFIwBYvdetGI=);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}  
+body{
+    background: rgb(249,225,238);
+    background: linear-gradient()
+}
